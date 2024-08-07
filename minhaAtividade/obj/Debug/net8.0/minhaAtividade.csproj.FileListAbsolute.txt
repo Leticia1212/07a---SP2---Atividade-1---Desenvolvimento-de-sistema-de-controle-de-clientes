@@ -1,0 +1,14 @@
+C:\_SENAIsp2\minhaatividade\bin\Debug\net8.0\minhaAtividade.exe
+C:\_SENAIsp2\minhaatividade\bin\Debug\net8.0\minhaAtividade.deps.json
+C:\_SENAIsp2\minhaatividade\bin\Debug\net8.0\minhaAtividade.runtimeconfig.json
+C:\_SENAIsp2\minhaatividade\bin\Debug\net8.0\minhaAtividade.dll
+C:\_SENAIsp2\minhaatividade\bin\Debug\net8.0\minhaAtividade.pdb
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.AssemblyInfoInputs.cache
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.AssemblyInfo.cs
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.csproj.CoreCompileInputs.cache
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.dll
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\refint\minhaAtividade.dll
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.pdb
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\minhaAtividade.genruntimeconfig.cache
+C:\_SENAIsp2\minhaatividade\obj\Debug\net8.0\ref\minhaAtividade.dll
